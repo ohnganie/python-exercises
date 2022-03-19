@@ -2,7 +2,7 @@
 5 solutions to python exercises
 
 
-The python exercises demonstrates the Author's understanding of Pyhton.
+The python exercises demonstrates the Author's understanding of Python.
                                     
 
 ## Built With
@@ -10,7 +10,7 @@ The python exercises demonstrates the Author's understanding of Pyhton.
 - Python
 
 
-### Setup
+### Getting started/Setup
 
 - To clone the repo to your local repository. Follow this steps
 - <code> git clone https://github.com/ohnganie/python-exercises</code>
@@ -38,6 +38,11 @@ The python exercises demonstrates the Author's understanding of Pyhton.
     1.  Commit and push the branch you created
     
 
+## Contributors
+Ongani Magwala
+
+## Acknoledgements
+Rumbi 
 
 ## Show your support
 
